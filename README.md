@@ -1,4 +1,5 @@
-# Phase 3 project: Tanzania Water Wells
+# Enhancing Lives through Well Waters: Classification Analysis for Sustainable Water Management in Tanzania
+
 #### Author: Jelimo Marion
 
 
